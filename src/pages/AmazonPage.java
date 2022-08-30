@@ -6,5 +6,7 @@ public class AmazonPage {
 
     //html for search button
 
+    //hrml for deals page
+
 
 }
