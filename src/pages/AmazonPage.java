@@ -6,9 +6,11 @@ public class AmazonPage {
 
     //html for search button
 
-    //hrml for deals page
-    
+    //html for deals page
+
     //changing team members line
+
+    //html for cart page
 
 
 }
